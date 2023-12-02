@@ -49,4 +49,5 @@ require("keymap")
 require("plugin")
 require("colors")
 require("options")
+require("arabic")
 
