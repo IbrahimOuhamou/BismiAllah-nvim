@@ -9,7 +9,8 @@ vim.o.hlsearch = false
 
 -- Make line numbers default
 vim.wo.number = true
-vim.wo.relativenumber = true
+-- vim.wo.relativenumber = true
+-- disabled so fo the 
 vim.wo.cursorline = true
 
 
